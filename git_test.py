@@ -5,4 +5,4 @@ import matplotlib.pyplot as plt
 from arch import arch_model
 from datetime import timedelta
 
-print('testing GIT!')
+print('Testing GIT!')
